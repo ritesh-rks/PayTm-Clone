@@ -26,7 +26,7 @@ While creating this project I learnt about various utilities and jargons of Tail
 
 # Netlify Link
 
-[Project - PayTm Clone](https://paytm-clone-rk.netlify.app/)
+[PayTm Clone](https://paytm-clone-rk.netlify.app/)
 
 # Thumbnail
 ![Thumbnail](https://user-images.githubusercontent.com/109421054/186943957-948913e2-1510-4d08-bc2c-6420a8a5291f.PNG)
